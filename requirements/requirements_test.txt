@@ -1,0 +1,6 @@
+iniconfig==2.0.0
+pluggy==1.4.0
+py==1.11.0
+pytest==6.2.5
+pytest-aiohttp==0.3.0
+toml==0.10.2

@@ -1,0 +1,6 @@
+
+test: False
+
+database:
+  prod_name: browser_history
+  test_name: browser_history_test
